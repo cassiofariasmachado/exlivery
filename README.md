@@ -1,21 +1,24 @@
 # Exlivery
 
-**TODO: Add description**
+[![Language](https://img.shields.io/badge/language-elixir-purple)](https://img.shields.io/badge/language-elixir-purple) [![License](https://img.shields.io/badge/license-MIT-lightgrey)](/LICENSE)
 
-## Installation
+Repository for my Exlivery project of the Elixir's path from [Rocketseat Ignite](https://rocketseat.com.br).
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `exlivery` to your list of dependencies in `mix.exs`:
+## :rocket: Techs
 
-```elixir
-def deps do
-  [
-    {:exlivery, "~> 0.1.0"}
-  ]
-end
-```
+* [Elixir](https://elixir-lang.org/)
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/exlivery](https://hexdocs.pm/exlivery).
+## :wrench: Setup
 
+  * Install dependencies with `mix deps.get`
+  * For interactive testing use `iex -S mix`
+
+## :white_check_mark: Test
+
+To run tests:
+
+* Run with `mix test --cover`
+
+## :page_facing_up: License
+
+* [MIT](/LICENSE.txt)
